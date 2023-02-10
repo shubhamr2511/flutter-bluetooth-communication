@@ -1,3 +1,3 @@
-# flutter_ble
+# flutter_bluetooth_communication
 
 A Flutter project that uses Bluetooth BLE with flutter_blue_plus library.
